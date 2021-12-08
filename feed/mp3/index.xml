@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:podcast="https://podcastindex.org/namespace/1.0" >
+
+<channel>
+	<title>Redhuhn</title>
+	<link>./../../index.html</link>
+	<description><![CDATA[Geflügelte Worte und Redewendungen]]></description>
+	<lastBuildDate>Sun, 29 Mar 2020 20:00:00 +0000</lastBuildDate>
+	
+<image><url>./../../wp-content/uploads/sites/3/2019/06/Redhuhn.png</url><title>Redhuhn</title><link>./../../index.html</link></image>
+<atom:link rel="self" type="application/rss+xml" title="Redhuhn (MP3 Feed)" href="./index.html" />
+	<atom:link rel="first" href="./index.html" />
+	<language>de-DE</language><generator>Podlove Podcast Publisher v3.6.1</generator>
+	<copyright>© 2021 Philipp Weißmann</copyright>
+	<itunes:author>Philipp Weißmann</itunes:author>
+	<itunes:type>episodic</itunes:type>
+	<itunes:summary><![CDATA[Geflügelte Worte und Redewendungen vorgestellt und kurz erklärt]]></itunes:summary>
+<itunes:category text="Education" />
+	
+	<itunes:owner>
+		<itunes:name>Philipp Weißmann</itunes:name>
+		<itunes:email>mail@philipp-weissmann.de</itunes:email>
+	</itunes:owner>
+	<itunes:image href="./../../wp-content/uploads/sites/3/2019/06/Redhuhn.png"/>
+	<itunes:subtitle>Geflügelte Worte und Redewendungen</itunes:subtitle>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+		<itunes:complete>yes</itunes:complete>
+
+	
+	<item>
+        <title>Brandbriefe von allen Seiten erhalten</title>
+		<link>./../../brandbriefe-von-allen-seiten-erhalten/index.html</link>
+		<pubDate>Sun, 29 Mar 2020 20:00:00 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-03-01t21:00:18+00:00-9b7ed215446bdb6</guid>
+    	<description><![CDATA[Brandbriefe von allen Seiten erhalten]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="./../../brandbriefe-von-allen-seiten-erhalten/index.html#" />
+		
+<enclosure url="./../../podlove/file/11/s/feed/c/mp3/10_Brandbriefe_von_allen_Seiten_erhalten.mp3" length="2593876" type="audio/mpeg"/>
+
+		<itunes:duration>00:01:46</itunes:duration>
+		<itunes:author>Philipp Weißmann</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Brandbriefe von allen Seiten erhalten</itunes:title>
+		<itunes:episode>10</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[]]></content:encoded>	</item>
+	
+	<item>
+        <title>Hätt' ich Venedigs Macht und Augsburger Pracht, Nürnberger Witz und Straßburger G'schütz und Ulmer Geld, so wär ich der Reichste in der Welt.</title>
+		<link>./../../haett-ich-venedigs-macht/index.html</link>
+		<pubDate>Sun, 15 Mar 2020 18:59:00 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-01-14t18:59:23+00:00-343b8b9f3b455f1</guid>
+    	<description><![CDATA[Hätt' ich Venedigs Macht und Augsburger Pracht, Nürnberger Witz und Straßburger G'schütz und Ulmer Geld, so wär ich der Reichste in der Welt.]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="./../../haett-ich-venedigs-macht/index.html#" />
+		
+<enclosure url="./../../podlove/file/10/s/feed/c/mp3/09_haett_ich_venedigs_macht.mp3" length="3741787" type="audio/mpeg"/>
+
+		<itunes:duration>00:02:58</itunes:duration>
+		<itunes:author>Philipp Weißmann</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Hätt' ich Venedigs Macht und Augsburger Pracht, Nürnberger Witz und Straßburger G'schütz und Ulmer Geld, so wär ich der Reichste in der Welt.</itunes:title>
+		<itunes:episode>9</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[]]></content:encoded>	</item>
+	
+	<item>
+        <title>Hals- und Beinbruch</title>
+		<link>./../../hals-und-beinbruch/index.html</link>
+		<pubDate>Sun, 01 Mar 2020 16:13:00 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-01-02t16:13:28+00:00-ddbaf700fbe243c</guid>
+    	<description><![CDATA[Hals- und Beinbruch]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="./../../hals-und-beinbruch/index.html#" />
+		
+<enclosure url="./../../podlove/file/8/s/feed/c/mp3/08_hals_und_beinbruch.mp3" length="2670254" type="audio/mpeg"/>
+
+		<itunes:duration>00:01:51</itunes:duration>
+		<itunes:author>Philipp Weißmann</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Hals- und Beinbruch</itunes:title>
+		<itunes:episode>8</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[]]></content:encoded>	</item>
+	
+	<item>
+        <title>Flasche</title>
+		<link>./../../flasche/index.html</link>
+		<pubDate>Sun, 16 Feb 2020 14:45:00 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-01-02t14:45:37+00:00-e25fb92dfe8f111</guid>
+    	<description><![CDATA[Flasche]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="./../../flasche/index.html#" />
+		
+<enclosure url="./../../podlove/file/7/s/feed/c/mp3/07_flasche.mp3" length="2526232" type="audio/mpeg"/>
+
+		<itunes:duration>00:01:42</itunes:duration>
+		<itunes:author>Philipp Weißmann</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Flasche</itunes:title>
+		<itunes:episode>7</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[]]></content:encoded>	</item>
+	
+	<item>
+        <title>Katzentisch</title>
+		<link>./../../katzentisch/index.html</link>
+		<pubDate>Sun, 02 Feb 2020 12:59:00 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-01-02t12:59:49+00:00-aa9e74c486a5274</guid>
+    	<description><![CDATA[Katzentisch]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="./../../katzentisch/index.html#" />
+		
+<enclosure url="./../../podlove/file/6/s/feed/c/mp3/06_katzentisch.mp3" length="2106911" type="audio/mpeg"/>
+
+		<itunes:duration>00:01:16</itunes:duration>
+		<itunes:author>Philipp Weißmann</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Katzentisch</itunes:title>
+		<itunes:episode>6</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[]]></content:encoded>	</item>
+	
+	<item>
+        <title>Bratkartoffelverhältnis und Wilde Ehe</title>
+		<link>./../../bratkartoffelverhaeltnis-und-wilde-ehe/index.html</link>
+		<pubDate>Sat, 11 Jan 2020 23:04:00 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-01-01t23:04:26+00:00-44ebc8938f2eb5e</guid>
+    	<description><![CDATA[Bratkartoffelverhältnis und Wilde Ehe]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="./../../bratkartoffelverhaeltnis-und-wilde-ehe/index.html#" />
+		
+<enclosure url="./../../podlove/file/5/s/feed/c/mp3/05_bratkartoffelverhaeltnis_und_wilde_ehe.mp3" length="2778962" type="audio/mpeg"/>
+
+		<itunes:duration>00:01:58</itunes:duration>
+		<itunes:author>Philipp Weißmann</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Bratkartoffelverhältnis und Wilde Ehe</itunes:title>
+		<itunes:episode>5</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[]]></content:encoded>	</item>
+	
+	<item>
+        <title>Dumm wie Bohnenstroh</title>
+		<link>./../../dumm-wie-bohnenstroh/index.html</link>
+		<pubDate>Wed, 01 Jan 2020 22:16:48 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-01-01t22:13:42+00:00-4fbab9d4f645ae3</guid>
+    	<description><![CDATA[Dumm wie Bohnenstroh]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="./../../dumm-wie-bohnenstroh/index.html#" />
+		
+<enclosure url="./../../podlove/file/4/s/feed/c/mp3/04_dumm_wie_bohnenstroh.mp3" length="1911800" type="audio/mpeg"/>
+
+		<itunes:duration>00:01:04</itunes:duration>
+		<itunes:author>Philipp Weißmann</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Dumm wie Bohnenstroh</itunes:title>
+		<itunes:episode>4</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[]]></content:encoded>	</item>
+	
+	<item>
+        <title>Olle Kamellen</title>
+		<link>./../../olle-kamellen/index.html</link>
+		<pubDate>Sun, 28 Jul 2019 11:03:01 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2019-07-28t11:02:19+00:00-975aa763dcc98c5</guid>
+    	<description><![CDATA[Olle Kamellen]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="./../../olle-kamellen/index.html#" />
+		
+<enclosure url="./../../podlove/file/3/s/feed/c/mp3/03_olle_kamellen.mp3" length="2036228" type="audio/mpeg"/>
+
+		<itunes:duration>00:01:11</itunes:duration>
+		<itunes:author>Philipp Weißmann</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Olle Kamellen</itunes:title>
+		<itunes:episode>3</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[]]></content:encoded>	</item>
+	
+	<item>
+        <title>Die Axt im Haus erspart den Zimmermann</title>
+		<link>./../../die-axt-im-haus-erspart-den-zimmermann/index.html</link>
+		<pubDate>Tue, 09 Jul 2019 16:47:23 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2019-07-09t16:46:22+00:00-6dbfb733247c3e0</guid>
+    	<description><![CDATA[Die Axt im Haus erspart den Zimmermann]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="./../../die-axt-im-haus-erspart-den-zimmermann/index.html#" />
+		
+<enclosure url="./../../podlove/file/2/s/feed/c/mp3/02_die_axt_im_haus_erspart_den_zimmermann.mp3" length="2621791" type="audio/mpeg"/>
+
+		<itunes:duration>00:01:48</itunes:duration>
+		<itunes:author>Philipp Weißmann</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Die Axt im Haus erspart den Zimmermann</itunes:title>
+		<itunes:episode>2</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[]]></content:encoded>	</item>
+	
+	<item>
+        <title>Es war einmal...</title>
+		<link>./../../es-war-einmal/index.html</link>
+		<pubDate>Sun, 30 Jun 2019 18:20:29 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2019-06-30t18:19:55+00:00-2a082d56aec4127</guid>
+    	<description><![CDATA[Es war einmal...]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="./../../es-war-einmal/index.html#" />
+		
+<enclosure url="./../../podlove/file/1/s/feed/c/mp3/01_es_war_einmal.mp3" length="3126022" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>Philipp Weißmann</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Es war einmal...</itunes:title>
+		<itunes:episode>1</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[]]></content:encoded>	</item>
+	</channel>
+</rss>
