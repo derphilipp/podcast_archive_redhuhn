@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare zu: Olle Kamellen	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/olle-kamellen/feed/" rel="self" type="application/rss+xml" />
+	<link>/olle-kamellen/</link>
 	<description>Geflügelte Worte und Redewendungen</description>
 	<lastBuildDate>Sun, 28 Jul 2019 11:03:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
