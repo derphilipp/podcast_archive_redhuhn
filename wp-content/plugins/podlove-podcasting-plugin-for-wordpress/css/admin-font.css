@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Podlove';
-	src:url('/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/fonts/Podlove.eot');
-	src:url('/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/fonts/Podlove.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/fonts/Podlove.woff') format('woff'),
-		url('/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/fonts/Podlove.ttf') format('truetype'),
-		url('/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/fonts/Podlove.svg#Podlove') format('svg');
+	src:url('https://derphilipp.github.io/podcast_archive_redhuhn/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/fonts/Podlove.eot');
+	src:url('https://derphilipp.github.io/podcast_archive_redhuhn/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/fonts/Podlove.eot#iefix') format('embedded-opentype'),
+		url('https://derphilipp.github.io/podcast_archive_redhuhn/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/fonts/Podlove.woff') format('woff'),
+		url('https://derphilipp.github.io/podcast_archive_redhuhn/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/fonts/Podlove.ttf') format('truetype'),
+		url('https://derphilipp.github.io/podcast_archive_redhuhn/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/fonts/Podlove.svg#Podlove') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

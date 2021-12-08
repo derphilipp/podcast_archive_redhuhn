@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare zu: Flasche	</title>
-	<atom:link href="/flasche/feed/" rel="self" type="application/rss+xml" />
-	<link>/flasche/</link>
+	<atom:link href="https://derphilipp.github.io/podcast_archive_redhuhn/flasche/feed/" rel="self" type="application/rss+xml" />
+	<link>https://derphilipp.github.io/podcast_archive_redhuhn/flasche/</link>
 	<description>Geflügelte Worte und Redewendungen</description>
 	<lastBuildDate>Thu, 02 Jan 2020 14:46:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
